@@ -1,6 +1,15 @@
 # Memory Game
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-memory--game-181717?logo=github)](https://github.com/cercit/memory_game)
+
 A responsive and accessible Memory (Concentration) card game built with HTML, CSS, and JavaScript.
+
+## Public Repo
+
+This project is publicly available on GitHub:
+
+- Repository: https://github.com/cercit/memory_game
+- Demo: open `memory-game.html` in a browser after cloning or download the project.
 
 ## Features
 
